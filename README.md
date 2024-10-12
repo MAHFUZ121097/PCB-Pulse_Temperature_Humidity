@@ -34,6 +34,6 @@ The PCB design ensures efficient power regulation and integrates sensor function
 
 ## PCB Specifications
 - **Design environment**: KiCad EDA 6.0.10
-- **Dimensions**: Custom compact layout
+- **Dimensions**: 30 mm X 22 mm
 - **Operating Voltage**: ~ 3V.
 - **Interfaces**: I2C communication pins for data exchange between the sensors and microcontroller.
