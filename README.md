@@ -5,7 +5,7 @@
 This repository contains the design and firmware for a custom Printed Circuit Board (PCB) that integrates both a pulse oximeter and a temperature-humidity sensor. This PCB is designed to monitor vital physiological data, making it suitable for health monitoring and IoT applications.
 
 ### PCB Image
-![PCB Design](Diagram/Pulse_Temp_device.jpg)
+![PCB Design](Diagrams/Pulse_Temp_device.jpg)
 
 ### Key Components:
 - **Pulse Oximeter IC**: MAX30101
