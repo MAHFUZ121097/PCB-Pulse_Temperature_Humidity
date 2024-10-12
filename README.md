@@ -13,7 +13,7 @@ The PCB design ensures efficient power regulation and integrates sensor function
 
 ## Components Description
 
-### Pulse Oximeter (MAX30100)
+### Pulse Oximeter (MAX30101)
 - The MAX30101 is an integrated pulse oximetry and heart-rate monitor IC. It uses two LEDs (red and infrared) and a photodetector to measure blood oxygen saturation and heart rate.
 
 ### Temperature-Humidity Sensor (Si7021)
